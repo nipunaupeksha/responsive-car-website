@@ -916,7 +916,7 @@ img {
     justify-self: center;
   }
 
-  .featured__map {
+  .features__map {
     left: 0;
     right: 0;
   }
@@ -932,7 +932,7 @@ img {
   }
 
   .offer__img {
-    position: absolute;
+    position: relative;
     bottom: initial;
     right: initial;
   }
